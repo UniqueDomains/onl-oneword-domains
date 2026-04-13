@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C660%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C661%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C659%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .onl one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,660 rows · **Live catalog:** 8,659 domains
+**Public extract:** 8,661 rows · **Live catalog:** 8,659 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/onl`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ONL one-word domain c
 
 ### Files
 
-- `onl.csv` — public CSV extract (8,660 rows)
-- `onl.json` — public JSON extract (8,660 rows)
+- `onl.csv` — public CSV extract (8,661 rows)
+- `onl.json` — public JSON extract (8,661 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -69,7 +69,7 @@ print(df.head())
 | silver.onl     | premium   | $65       | $130          | 56             | 99     | 6      | namecheap       |
 | seventeen.onl  | available | $4.99     | $35.99        | 84             | 62     | 9      | name.com        |
 | eternal.onl    | resell    | $4.99     | $35.99        | 92             | 39     | 7      | Dynadot Inc     |
-| free.onl       | premium   | $312.50   | $625          | 88             | 59     | 4      | name.com        |
+| free.onl       | premium   | $312.50   | $625          | 88             | 57     | 4      | name.com        |
 | unify.onl      | available | $4.99     | $35.99        | 72             | 40     | 5      | name.com        |
 | trip.onl       | resell    | $28.98    | —             | 110            | 35     | 4      | Dynadot Inc     |
 | live.onl       | premium   | $156.25   | $312.50       | 108            | 56     | 4      | name.com        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,660-row public sample | 8,659 live domains                               |
+| 8,661-row public sample | 8,659 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
