@@ -244,6 +244,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1654377d-c544-4326-bef9-1f5e745e05ea,eachway.onl,available,4.99,,68,2,8,name.com,,
 16813a85-635d-4089-8a62-3566cb628692,walktheline.onl,available,4.99,,68,3,13,name.com,,
 1694b9e1-7bac-4f64-8a9b-6e5db6a424ad,loans.onl,premium,156.25,,58,24,5,name.com,,
+169ca50b-4755-4d5b-8b83-c7551c4f37c2,tasks.onl,available,3.79,23.49,66,22,5,namesilo,,
 169fb031-88ed-4116-9931-c85ab6a7df3b,yawned.onl,available,3.79,23.49,53,2,6,namesilo,,
 16ade46c-39ac-4ba2-8f08-a88d805e8ae0,cometrue.onl,available,4.99,,82,5,9,name.com,,
 16b2e60b-dd8e-4b89-89f0-8e8c401661db,getthegreenlight.onl,available,4.99,,52,1,19,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59cb6429-9aaa-42cc-b19a-8b3058ad1837,parkin.onl,available,4.99,,59,8,7,name.com,,
 59e40730-6b0f-40c9-b682-0c1b633f2a70,natives.onl,available,4.99,,56,9,7,name.com,,
 5a0eb7f5-7c42-410b-872d-ad97a29f724b,goforbroke.onl,available,4.99,,72,2,12,name.com,,
-5a2d67a4-d672-4b32-9afb-06e8f3d0229d,neighbourhood.onl,available,4.99,,70,14,13,name.com,,
