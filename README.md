@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .onl one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,497 domains · **Median ask:** $11.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/onl`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | playin.onl       | available | $4.99     | —             | 80             | 10     | 7      | name.com                                                  |
 | QandA.onl        | available | $28.98    | —             | 80             | 10     | 7      | namecheap                                                 |
 | toneup.onl       | available | $4.99     | —             | 80             | 5      | 7      | name.com                                                  |
-| makeit.onl       | available | $4.99     | —             | 82             | 22     | 7      | name.com                                                  |
+| makeit.onl       | available | $4.99     | —             | 82             | 21     | 7      | name.com                                                  |
 | stirup.onl       | available | $4.99     | —             | 82             | 3      | 7      | name.com                                                  |
 | getlife.onl      | available | $4.99     | —             | 80             | 5      | 8      | name.com                                                  |
 | Snickers.onl     | available | $28.98    | —             | 80             | 10     | 8      | namecheap                                                 |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
