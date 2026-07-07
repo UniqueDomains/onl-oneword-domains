@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .onl one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,497 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,497 domains · **Median ask:** $11.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,497 domains · **Median ask:** $11.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/onl`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/onl`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ONL one-word domain c
 
 ### Files
 
-- `onl.csv` — public CSV extract (1,000 rows)
-- `onl.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `onl.csv`, public CSV extract (1,000 rows)
+- `onl.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| edamame.onl      | available | $3.79     | $23.49        | 80             | 9      | 7      | namesilo                                                  |
-| gearup.onl       | available | $4.99     | —             | 80             | 16     | 7      | name.com                                                  |
-| playin.onl       | available | $4.99     | —             | 80             | 10     | 7      | name.com                                                  |
-| QandA.onl        | available | $28.98    | —             | 80             | 10     | 7      | namecheap                                                 |
-| toneup.onl       | available | $4.99     | —             | 80             | 5      | 7      | name.com                                                  |
-| makeit.onl       | available | $4.99     | —             | 82             | 21     | 7      | name.com                                                  |
-| stirup.onl       | available | $4.99     | —             | 82             | 3      | 7      | name.com                                                  |
-| getlife.onl      | available | $4.99     | —             | 80             | 5      | 8      | name.com                                                  |
-| Snickers.onl     | available | $28.98    | —             | 80             | 10     | 8      | namecheap                                                 |
-| headout.onl      | available | $4.99     | —             | 82             | 6      | 8      | name.com                                                  |
-| beawake.onl      | available | $4.99     | —             | 84             | 3      | 8      | name.com                                                  |
-| neuroscience.onl | available | $4.99     | —             | 80             | 37     | 12     | name.com                                                  |
-| WiFi.onl         | resell    | —         | —             | 83             | 37     | 5      | GoDaddy.com, LLC                                          |
-| donuts.onl       | premium   | $62.50    | —             | 54             | 62     | 6      | name.com                                                  |
-| commonground.onl | available | $4.99     | —             | 74             | 28     | 13     | name.com                                                  |
-| shops.onl        | resell    | —         | —             | 64             | 24     | 5      | Dynadot Inc                                               |
-| cars.onl         | premium   | $312.50   | —             | 66             | 47     | 4      | name.com                                                  |
-| KFC.onl          | available | $28.98    | —             | 74             | 27     | 3      | namecheap                                                 |
-| thinks.onl       | resell    | —         | —             | 64             | 10     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| coins.onl        | premium   | $312.50   | —             | 56             | 41     | 5      | name.com                                                  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ago.onl   | available | $4.99     | $35.99        | medium         | low    | 3      | name.com                                                  |
+| bay.onl   | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| bed.onl   | premium   | $156.25   | —             | high           | low    | 3      | name.com                                                  |
+| bud.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| zen.onl   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fat.onl   | premium   | $53.92    | $116          | medium         | low    | 3      | namesilo                                                  |
+| cod.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| lens.onl  | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.                                           |
+| joy.onl   | premium   | $62.50    | —             | high           | medium | 3      | name.com                                                  |
+| fog.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| elite.onl | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| key.onl   | premium   | $53.92    | $116          | high           | medium | 3      | namesilo                                                  |
+| oar.onl   | available | $3.79     | $23.49        | medium         | low    | 3      | namesilo                                                  |
+| maven.onl | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
+| NYC.onl   | premium   | $156.25   | —             | high           | medium | 3      | name.com                                                  |
+| owe.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| sense.onl | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                                           |
+| six.onl   | premium   | $62.50    | $125          | medium         | low    | 3      | name.com                                                  |
+| per.onl   | available | $4.99     | —             | high           | low    | 3      | name.com                                                  |
+| strip.onl | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word .onl names with a very low median ask of 11.06, so the main question is not entry price but quality. In this set, value comes from clean spelling, broad meaning, and low legal friction. Names such as finals.onl or useit.onl are easy to read and remember, while names like Chanel.onl or Apples.onl raise obvious trademark concerns. For founders, the best picks are short, clear, and easy to say. For investors, the edge is selective: focus on words with wider commercial use, natural language fit, and renewals that remain sensible relative to acquisition cost.
+This list gathers one-word .ONL domain names — short, single-term options like homes.onl and lightup.onl. With a median ask near $11 across 11,497 names, the set spans everyday nouns, action words, and compact phrases suited to lean brands or quick launches. Pricing stays accessible, making it easy to compare options before committing to a name.
 
-- Prioritize clear spelling and instant meaning
-- Treat obvious brand matches as high trademark risk
-- At 11.06 median ask, quality matters more than price
-- Short, generic words tend to be easier to evaluate
+- 11,497 one-word .ONL domain names in this selection
+- Median ask near $11 across the entire set
+- Short, brandable names like homes.onl and lightup.onl
+- Updated daily for current pricing signals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
