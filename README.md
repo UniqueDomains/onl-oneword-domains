@@ -1,10 +1,10 @@
-# Available .ONL One-Word Domains (11,497)
+# Available .ONL One-Word Domains (11,507)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C497%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C507%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .onl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,497 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,507 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,497 domains · **Median ask:** $11.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,507 domains · **Median ask:** $10.18 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/onl`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | cod.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | lens.onl  | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.                                           |
 | joy.onl   | premium   | $62.50    | —             | high           | medium | 3      | name.com                                                  |
-| fog.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| cxv.onl   | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
 | elite.onl | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
 | key.onl   | premium   | $53.92    | $116          | high           | medium | 3      | namesilo                                                  |
-| oar.onl   | available | $3.79     | $23.49        | medium         | low    | 3      | namesilo                                                  |
+| fog.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | maven.onl | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | NYC.onl   | premium   | $156.25   | —             | high           | medium | 3      | name.com                                                  |
-| owe.onl   | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| ixc.onl   | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
 | sense.onl | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.                                           |
 | six.onl   | premium   | $62.50    | $125          | medium         | low    | 3      | name.com                                                  |
-| per.onl   | available | $4.99     | —             | high           | low    | 3      | name.com                                                  |
+| oar.onl   | available | $3.79     | $23.49        | medium         | low    | 3      | namesilo                                                  |
 | strip.onl | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,497 live domains                        |
+| 1,000-row public sample | 11,507 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
