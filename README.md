@@ -1,10 +1,10 @@
-# Available .ONL One-Word Domains (16,934)
+# Available .ONL One-Word Domains (17,955)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C934%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C955%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .onl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,934 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,955 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,934 domains · **Median ask:** $7.79 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 17,955 domains · **Median ask:** $7.56 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/onl`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| feel.onl  | premium   | $53.92    | $116          | high           | low    | 4      | namesilo                                                  |
 | ago.onl   | available | $4.99     | $35.99        | medium         | low    | 3      | name.com                                                  |
 | zen.onl   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | bed.onl   | premium   | $156.25   | —             | high           | low    | 3      | name.com                                                  |
@@ -84,6 +83,7 @@ print(df.head())
 | strip.onl | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 | six.onl   | premium   | $62.50    | $125          | medium         | low    | 3      | name.com                                                  |
 | ixc.onl   | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
+| timer.onl | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,934 live domains                        |
+| 1,000-row public sample | 17,955 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
