@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .onl one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,265 domains · **Median ask:** $6.36 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/onl`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | bud.onl    | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | maven.onl  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                               |
 | joy.onl    | premium   | $62.50    | —             | high           | medium | 3      | name.com                                                  |
-| cod.onl    | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| cxv.onl    | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
 | strip.onl  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 | key.onl    | premium   | $65       | $130          | medium         | low    | 3      | namecheap                                                 |
-| cxv.onl    | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
+| fog.onl    | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | timer.onl  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                           |
 | nyc.onl    | premium   | $156.25   | —             | high           | medium | 3      | name.com                                                  |
-| fog.onl    | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| ixc.onl    | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
 | aerial.onl | resell    | —         | —             | medium         | low    | 6      | Dynadot Inc                                               |
 | six.onl    | premium   | $65       | $130          | medium         | low    | 3      | namecheap                                                 |
-| ixc.onl    | available | $3.48     | $28.98        | low            | low    | 3      | namecheap                                                 |
+| oar.onl    | available | $3.79     | $23.49        | medium         | low    | 3      | namesilo                                                  |
 | alpine.onl | resell    | —         | —             | medium         | medium | 6      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
