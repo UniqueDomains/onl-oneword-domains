@@ -1,10 +1,10 @@
-# Available .ONL One-Word Domains (22,207)
+# Available .ONL One-Word Domains (22,719)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C207%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C719%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .onl one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,207 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,719 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,207 domains · **Median ask:** $8.31 · **High-demand under $2,500:** 12
+**Public extract:** 1,000 rows · **Live catalog:** 22,719 domains · **Median ask:** $8.35 · **High-demand under $2,500:** 12
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/onl`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| cot.onl     | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| far.onl     | available | $3.48     | $28.98        | high           | low    | 3      | namecheap                                                 |
 | about.onl   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 | bbc.onl     | premium   | $53.92    | $116          | high           | medium | 3      | namesilo                                                  |
-| far.onl     | available | $3.48     | $28.98        | high           | low    | 3      | namecheap                                                 |
+| fey.onl     | available | $3.48     | $28.98        | medium         | low    | 3      | namecheap                                                 |
 | nurse.onl   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 | eat.onl     | premium   | $156.25   | —             | high           | low    | 3      | name.com                                                  |
-| fey.onl     | available | $3.48     | $28.98        | medium         | low    | 3      | namecheap                                                 |
+| gun.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | ocean.onl   | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | hiv.onl     | premium   | $53.92    | $116          | high           | low    | 3      | namesilo                                                  |
-| gun.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| iss.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | method.onl  | resell    | —         | —             | high           | low    | 6      | —                                                         |
 | kim.onl     | premium   | $65       | $130          | high           | low    | 3      | namecheap                                                 |
-| iss.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| llb.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | bespoke.onl | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
 | ole.onl     | premium   | $53.92    | $116          | high           | low    | 3      | namesilo                                                  |
-| llb.onl     | available | $5.49     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| non.onl     | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
 | restore.onl | resell    | —         | —             | high           | low    | 7      | —                                                         |
 | set.onl     | premium   | $62.50    | $125          | high           | low    | 3      | name.com                                                  |
-| non.onl     | available | $3.79     | $23.49        | high           | low    | 3      | namesilo                                                  |
+| pee.onl     | available | $3.48     | $28.98        | medium         | low    | 3      | namecheap                                                 |
 | rethink.onl | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,207 live domains                        |
+| 1,000-row public sample | 22,719 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 12 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
